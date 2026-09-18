@@ -2,49 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>/about-me/</link>
+      <link>//localhost:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about-me/</guid>
+      <guid>//localhost:1313/about-me/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>/other-great-pages/</link>
+      <link>//localhost:1313/other-great-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/other-great-pages/</guid>
+      <guid>//localhost:1313/other-great-pages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>/singapore/smol-tech/</link>
+      <link>//localhost:1313/plants/dixie-rosemallow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/singapore/smol-tech/</guid>
+      <guid>//localhost:1313/plants/dixie-rosemallow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/singapore/smol-tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/singapore/smol-tech/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Singapore Wildlife</title>
-      <link>/singapore/nature/wildlife/</link>
+      <link>//localhost:1313/singapore/nature/wildlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/singapore/nature/wildlife/</guid>
+      <guid>//localhost:1313/singapore/nature/wildlife/</guid>
       <description></description>
       
     </item>
