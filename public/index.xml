@@ -2,59 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>//localhost:1313/about-me/</link>
+      <link>/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about-me/</guid>
+      <guid>/about-me/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/other-great-pages/</link>
+      <link>/composting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/other-great-pages/</guid>
+      <guid>/composting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/plants/dixie-rosemallow/</link>
+      <link>/other-great-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/plants/dixie-rosemallow/</guid>
+      <guid>/other-great-pages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/singapore/smol-tech/</link>
+      <link>/permaculture/smol-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/singapore/smol-tech/</guid>
+      <guid>/permaculture/smol-tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plants</title>
+      <link>/plants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/plants/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Singapore Wildlife</title>
-      <link>//localhost:1313/singapore/nature/wildlife/</link>
+      <link>/permaculture/nature/wildlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/singapore/nature/wildlife/</guid>
+      <guid>/permaculture/nature/wildlife/</guid>
       <description></description>
       
     </item>

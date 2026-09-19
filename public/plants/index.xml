@@ -10,13 +10,13 @@
     <atom:link href="//localhost:1313/plants/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>Dixie Rosemallow</title>
       <link>//localhost:1313/plants/dixie-rosemallow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/plants/dixie-rosemallow/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/dixie-rosemallow/feature.png" />
     </item>
     
   </channel>

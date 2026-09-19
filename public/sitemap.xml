@@ -8,11 +8,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/composting/hot/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/composting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
