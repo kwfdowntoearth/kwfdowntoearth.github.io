@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>/</link>
+    <link>//localhost:58059/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:58059/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>/about-me/</link>
+      <link>//localhost:58059/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about-me/</guid>
+      <guid>//localhost:58059/about-me/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>/composting/</link>
+      <link>//localhost:58059/composting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composting/</guid>
+      <guid>//localhost:58059/composting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>/other-great-pages/</link>
+      <link>//localhost:58059/other-great-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/other-great-pages/</guid>
+      <guid>//localhost:58059/other-great-pages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>/permaculture/smol-tech/</link>
+      <link>//localhost:58059/permaculture/smol-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/permaculture/smol-tech/</guid>
+      <guid>//localhost:58059/permaculture/smol-tech/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Plants</title>
-      <link>/plants/</link>
+      <title>Dixie Rosemallow</title>
+      <link>//localhost:58059/plants/dixie-rosemallow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/plants/</guid>
+      <guid>//localhost:58059/plants/dixie-rosemallow/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:58059/plants/dixie-rosemallow/feature.png" />
     </item>
     
     <item>
       <title>Singapore Wildlife</title>
-      <link>/permaculture/nature/wildlife/</link>
+      <link>//localhost:58059/permaculture/nature/wildlife/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/permaculture/nature/wildlife/</guid>
+      <guid>//localhost:58059/permaculture/nature/wildlife/</guid>
       <description></description>
       
     </item>
