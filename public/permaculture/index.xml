@@ -9,25 +9,5 @@
     <copyright>© 2026 </copyright>
     <atom:link href="//localhost:1313/permaculture/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title></title>
-      <link>//localhost:1313/permaculture/smol-tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/permaculture/smol-tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Singapore Wildlife</title>
-      <link>//localhost:1313/permaculture/nature/wildlife/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/permaculture/nature/wildlife/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

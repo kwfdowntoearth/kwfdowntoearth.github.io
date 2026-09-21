@@ -7,16 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="//localhost:1313/plants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/plants/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Dixie Rosemallow</title>
-      <link>//localhost:1313/plants/dixie-rosemallow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Cotton Rose</title>
+      <link>//localhost:1313/plants/cotton-rose/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/plants/dixie-rosemallow/</guid>
+      <guid>//localhost:1313/plants/cotton-rose/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/dixie-rosemallow/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/cotton-rose/feature.png" />
     </item>
     
   </channel>

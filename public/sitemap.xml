@@ -3,12 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/about-me/</loc>
+    <loc>//localhost:1313/plants/cotton-rose/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/compost/hot/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/plants/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -18,37 +26,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/other-great-pages/</loc>
+    <loc>//localhost:1313/critters/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/permaculture/smol-tech/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/plants/dixie-rosemallow/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/permaculture/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/plants/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/permaculture/nature/wildlife/</loc>
+    <loc>//localhost:1313/critters/froghopper/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

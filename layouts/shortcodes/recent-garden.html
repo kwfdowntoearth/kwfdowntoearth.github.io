@@ -1,0 +1,18 @@
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+
+  {{ $plants := site.GetPage "section" "plants" }}
+  {{ with $plants }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+
+  {{ $critters := site.GetPage "section" "critters" }}
+  {{ with $critters }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+
+  {{ $compost := site.GetPage "section" "compost" }}
+  {{ with $compost }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+
+</div>
