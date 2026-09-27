@@ -1,7 +1,8 @@
 ---
 title: "Froghopper"
+imageBrightness: 1.5
 ---
-<img src="feature.jpg" alt="Froghopper" style="width: 100%; height: auto;">
+{{< bright-image src="feature.jpg" alt="Froghopper" >}}
 photo by: Mr Tang 
 
 - nymph taps into the sap of the plant, eats and exudes it, frothing and bubbling it around itself

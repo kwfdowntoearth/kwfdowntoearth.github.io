@@ -21,17 +21,46 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/compost/</loc>
+    <loc>//localhost:1313/plants/snake-gourd/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/plants/coral-vine/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/critters/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/critters/long-tailed-shrike/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/permaculture/concepts/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/compost/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/critters/froghopper/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/permaculture/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

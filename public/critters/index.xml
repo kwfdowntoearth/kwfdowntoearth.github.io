@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="//localhost:1313/critters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/critters/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Long-tailed shrike</title>
+      <link>//localhost:1313/critters/long-tailed-shrike/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/critters/long-tailed-shrike/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/critters/long-tailed-shrike/feature.png" />
+    </item>
     
     <item>
       <title>Froghopper</title>

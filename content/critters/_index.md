@@ -2,6 +2,7 @@
 title: "Critters"
 groupByYear: false
 cardView: true
+imageBrightness: 1.3
 ---
 
-A living library of the critters growing in the garden. TEST
+

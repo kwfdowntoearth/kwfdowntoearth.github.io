@@ -19,5 +19,25 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/cotton-rose/feature.png" />
     </item>
     
+    <item>
+      <title>Snake Gourd</title>
+      <link>//localhost:1313/plants/snake-gourd/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/plants/snake-gourd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/snake-gourd/feature.png" />
+    </item>
+    
+    <item>
+      <title>Coral Vine</title>
+      <link>//localhost:1313/plants/coral-vine/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/plants/coral-vine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/coral-vine/feature.png" />
+    </item>
+    
   </channel>
 </rss>

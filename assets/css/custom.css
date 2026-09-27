@@ -72,3 +72,8 @@ blockquote {
   max-width: 70%;
   height: auto;
 }
+
+.bright-froghopper {
+  filter: brightness(1.5) !important;
+}
+

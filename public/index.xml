@@ -20,6 +20,46 @@
     </item>
     
     <item>
+      <title>Snake Gourd</title>
+      <link>//localhost:1313/plants/snake-gourd/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/plants/snake-gourd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/snake-gourd/feature.png" />
+    </item>
+    
+    <item>
+      <title>Coral Vine</title>
+      <link>//localhost:1313/plants/coral-vine/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/plants/coral-vine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/plants/coral-vine/feature.png" />
+    </item>
+    
+    <item>
+      <title>Long-tailed shrike</title>
+      <link>//localhost:1313/critters/long-tailed-shrike/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/critters/long-tailed-shrike/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/critters/long-tailed-shrike/feature.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/permaculture/concepts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/permaculture/concepts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Compost</title>
       <link>//localhost:1313/compost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
