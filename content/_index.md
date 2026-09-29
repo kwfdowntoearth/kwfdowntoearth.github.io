@@ -1,10 +1,13 @@
----
-title: "Khatib Well Spring Farmden aka KWF Down to Earth"
----
+# *What makes a city in nature?*
+# Welcome to *Khatib Wellspring Farmden*, where we stubbornly soil farm on hot and sweaty Sunday mornings, at the edge of the Devil’s Ring, amidst the high-rise buildings.
+
 <img src="kwf.jpg" alt="kwf" style="width: 50%; height: auto;">
 
-# hi welcome to our permaculture garden @ 783 Khatib :)
-a dedicated community passionate about turning underused green spaces into vibrant, biodiverse food-producing ecosystems. using permaculture and regenerative practices, we help nature and people thrive.
+# Through permaculture, we grow spaces where soil, biodiversity, food, learning, connection and community can thrive together, nourishing us as we grow alongside them.
 
-## what we're growing
+# Perhaps this is one way Singapore’s future could grow.
+
+
+
+# What's growing! 
 {{< recent-garden >}}

@@ -72,8 +72,46 @@ blockquote {
   max-width: 70%;
   height: auto;
 }
+/* KWF colours */
 
-.bright-froghopper {
-  filter: brightness(1.5) !important;
+body {
+  background-color: #D5C58A !important;
+  color: #06402B !important;
 }
 
+/* Main content */
+
+.prose,
+.prose p,
+.prose li,
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: #06402B !important;
+}
+
+/* Links */
+
+a {
+  color: #06402B !important;
+}
+
+/* Navigation */
+
+nav a {
+  color: #06402B !important;
+}
+
+/* Blowfish interface */
+
+header,
+footer,
+header *,
+footer *,
+button,
+svg {
+  color: #06402B !important;
+}
