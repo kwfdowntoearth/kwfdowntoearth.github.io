@@ -1,18 +1,42 @@
-<div class="grid grid-cols-1 sm:grid-cols-3 gap-4 not-prose">
+<div class="kwf-home-links">
 
   {{ $plants := site.GetPage "section" "plants" }}
   {{ with $plants }}
-    {{ partial "article-link/card.html" . }}
+    {{ $image := .Resources.GetMatch "feature*" }}
+    <a href="{{ .RelPermalink }}" class="kwf-home-link">
+      {{ with $image }}
+        <div class="kwf-home-photo">
+          <img src="{{ .RelPermalink }}" alt="Plants">
+        </div>
+      {{ end }}
+      <div class="kwf-home-title">Plants</div>
+    </a>
   {{ end }}
 
   {{ $critters := site.GetPage "section" "critters" }}
   {{ with $critters }}
-    {{ partial "article-link/card.html" . }}
+    {{ $image := .Resources.GetMatch "feature*" }}
+    <a href="{{ .RelPermalink }}" class="kwf-home-link">
+      {{ with $image }}
+        <div class="kwf-home-photo">
+          <img src="{{ .RelPermalink }}" alt="Critters">
+        </div>
+      {{ end }}
+      <div class="kwf-home-title">Critters</div>
+    </a>
   {{ end }}
 
   {{ $compost := site.GetPage "section" "compost" }}
   {{ with $compost }}
-    {{ partial "article-link/card.html" . }}
+    {{ $image := .Resources.GetMatch "feature*" }}
+    <a href="{{ .RelPermalink }}" class="kwf-home-link">
+      {{ with $image }}
+        <div class="kwf-home-photo">
+          <img src="{{ .RelPermalink }}" alt="Compost">
+        </div>
+      {{ end }}
+      <div class="kwf-home-title">Compost</div>
+    </a>
   {{ end }}
 
 </div>

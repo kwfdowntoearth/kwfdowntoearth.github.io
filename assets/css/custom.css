@@ -4,7 +4,24 @@
   font-weight: 400 800;
   font-style: normal;
 }
+.highlight {
+ background: linear-gradient(
+    180deg,
+    transparent 42%,
+    #89F336 42%
+  );
+  color: #06402B;
+  font-weight: 700;
+  display: inline;
+}
 
+.farmden-name {
+  background-image: url("/images/tithonia.png");
+  background-repeat: no-repeat;
+  background-size: 2em 2em;
+  background-position: left center;
+  padding-left: 2.1em;
+}
 /* Main body */
 body {
   font-family: "EB Garamond", serif;
@@ -68,6 +85,10 @@ blockquote {
   width: 100% !important;
 }
 
+.article-link--card {
+  background-color: #d8f3c3 !important;
+}
+
 .article-content img {
   max-width: 70%;
   height: auto;
@@ -114,4 +135,61 @@ footer *,
 button,
 svg {
   color: #06402B !important;
+}
+.wordart-gif {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.wordart-gif::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: 25% 5% 15% 5%;
+  background: #8a5a32;
+  opacity: 0.45;
+  border-radius: 45% 55% 50% 48%;
+  transform: rotate(-2deg);
+}
+
+.wordart-gif img {
+  position: relative;
+  z-index: 1;
+  display: block;
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+}
+
+.kwf-home-links {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.kwf-home-link {
+  display: block;
+  text-decoration: none;
+  color: #06402B;
+}
+.kwf-home-photo {
+  position: relative;
+  overflow: visible !important;
+  border-radius: 20px !important;
+  aspect-ratio: 3 / 2 !important;
+}
+
+.kwf-home-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain !important;
+  display: block;
+}
+
+.kwf-home-title {
+  margin-top: 0.7rem;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
 }
